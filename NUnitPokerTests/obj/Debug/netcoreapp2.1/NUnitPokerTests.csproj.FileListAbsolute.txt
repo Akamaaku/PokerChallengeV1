@@ -1,0 +1,17 @@
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnitPokerTests.deps.json
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnitPokerTests.runtimeconfig.json
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnitPokerTests.runtimeconfig.dev.json
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnitPokerTests.dll
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\NUnitPokerTests.pdb
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\PokerChallenge.dll
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\bin\Debug\netcoreapp2.1\PokerChallenge.pdb
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.csprojAssemblyReference.cache
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.csproj.CoreCompileInputs.cache
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.AssemblyInfoInputs.cache
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.AssemblyInfo.cs
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.csproj.CopyComplete
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.dll
+D:\markn\Programming 4\PokerChallenge\NUnitPokerTests\obj\Debug\netcoreapp2.1\NUnitPokerTests.pdb

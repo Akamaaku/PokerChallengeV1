@@ -1,0 +1,11 @@
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\bin\Debug\netcoreapp2.1\PokerChallenge.deps.json
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\bin\Debug\netcoreapp2.1\PokerChallenge.runtimeconfig.json
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\bin\Debug\netcoreapp2.1\PokerChallenge.runtimeconfig.dev.json
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\bin\Debug\netcoreapp2.1\PokerChallenge.dll
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\bin\Debug\netcoreapp2.1\PokerChallenge.pdb
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\obj\Debug\netcoreapp2.1\PokerChallenge.csproj.CoreCompileInputs.cache
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\obj\Debug\netcoreapp2.1\PokerChallenge.AssemblyInfoInputs.cache
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\obj\Debug\netcoreapp2.1\PokerChallenge.AssemblyInfo.cs
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\obj\Debug\netcoreapp2.1\PokerChallenge.dll
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\obj\Debug\netcoreapp2.1\PokerChallenge.pdb
+D:\markn\Programming 4\PokerChallenge\PokerChallenge\obj\Debug\netcoreapp2.1\PokerChallenge.csprojAssemblyReference.cache

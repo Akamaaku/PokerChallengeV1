@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerChallenge", "PokerChallenge\PokerChallenge.csproj", "{6F07A7E0-2CF9-4567-BDAE-1DA4BE163D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitPokerTests", "NUnitPokerTests\NUnitPokerTests.csproj", "{81A77D75-FA59-4F8D-AE10-E79E2F55B712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F07A7E0-2CF9-4567-BDAE-1DA4BE163D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F07A7E0-2CF9-4567-BDAE-1DA4BE163D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F07A7E0-2CF9-4567-BDAE-1DA4BE163D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F07A7E0-2CF9-4567-BDAE-1DA4BE163D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A77D75-FA59-4F8D-AE10-E79E2F55B712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A77D75-FA59-4F8D-AE10-E79E2F55B712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A77D75-FA59-4F8D-AE10-E79E2F55B712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A77D75-FA59-4F8D-AE10-E79E2F55B712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754260F8-B240-484A-9FFD-821D2DD4190A}
+	EndGlobalSection
+EndGlobal
