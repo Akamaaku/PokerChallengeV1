@@ -28,4 +28,13 @@ Future Updates:
   - Royal Flush
 - Optimizing Code
 
-All Testing is done using <b>NuGet</b>
+
+Testing:
+-
+All tests were done using NUnit.Framework.
+
+Developer Message:
+-
+Thanks for viewing my code. Any positive criticism and remarks to help improve my knowledge of C# is appreciated!
+
+:)
